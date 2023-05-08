@@ -1,5 +1,3 @@
-js-countries-and-capitals-game
-
 ## [Countries and Capitals (Game)](https://vch-sh.github.io/js-countries-and-capitals-game/) 
 **Ctrl/Command** + click to open a link in a new window
 
