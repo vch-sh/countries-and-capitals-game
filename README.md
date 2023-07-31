@@ -1,4 +1,4 @@
-## [Countries and Capitals (Game)](https://vch-sh.github.io/js-countries-and-capitals-game/) 
+## [Countries and Capitals (Game)](https://vch-sh.github.io/countries-and-capitals-game/) 
 **Ctrl/Command** + click to open a link in a new window
 
 This is a simple web-based game that allows players to match countries with their capitals. Players can drag and drop country and capital options to their corresponding places. 
